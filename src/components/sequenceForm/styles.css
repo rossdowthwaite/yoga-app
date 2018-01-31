@@ -1,0 +1,28 @@
+.input {
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: block;
+  margin: auto;
+  border: none;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.blank {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.submit {
+  width: 150px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
